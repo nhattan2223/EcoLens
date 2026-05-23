@@ -1,2 +1,0 @@
-# Ignore local API key configuration so secrets are not uploaded to GitHub
-js/api-keys.js
